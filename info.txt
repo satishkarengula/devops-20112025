@@ -1,4 +1,1 @@
-Welcome to Java Home.
-Following cources are offered here:
-- DevOps
-- Java
+Welcome to DevOps
